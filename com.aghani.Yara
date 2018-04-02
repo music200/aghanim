@@ -2,51 +2,51 @@
 <channel>
 <item>
 <title>ما بعرف</title>
-<enclosure url="https://sr1.dndnha.com/yeh/yara/albums/3ayesh-b3yoni/05%20-%20Ma%20Baaref.mp3"/>
+<enclosure url="https://sr1.dndnha.com/dl/yeh/yara/albums/3ayesh-b3yoni/05%20-%20Ma%20Baaref.mp3"/>
 </item>
 <item>
 <title>بيت حبيبي</title>
-<enclosure url="https://sr1.dndnha.com/yeh/yara/albums/3ayesh-b3yoni/09%20-%20Beyt%20Habibi.mp3"/>
+<enclosure url="https://sr1.dndnha.com/dl/yeh/yara/albums/3ayesh-b3yoni/09%20-%20Beyt%20Habibi.mp3"/>
 </item>
 <item>
 <title>معذبني الهوى</title>
-<enclosure url="https://dl.dndser.com/yeh/yara/albums/meaazibni-elhawa/04%20Meaazabni%20Al%20Hawa.mp3"/>
+<enclosure url="https://dl.dndser.com/dl/yeh/yara/albums/meaazibni-elhawa/04%20Meaazabni%20Al%20Hawa.mp3"/>
 </item>
 <item>
 <title>بتروح</title>
-<enclosure url="https://sr1.dndnha.com/yeh/yara/albums/3ayesh-b3yoni/06%20-%20Betrouh.mp3"/>
+<enclosure url="https://sr1.dndnha.com/dl/yeh/yara/albums/3ayesh-b3yoni/06%20-%20Betrouh.mp3"/>
 </item>
 <item>
 <title>بحر هموم</title>
-<enclosure url="https://dl.dndser.com/yeh/yara/albums/meaazibni-elhawa/08%20Baher%20Hmoum.mp3"/>
+<enclosure url="https://dl.dndser.com/dl/yeh/yara/albums/meaazibni-elhawa/08%20Baher%20Hmoum.mp3"/>
 </item>
 <item>
 <title>إنت مني</title>
-<enclosure url="https://sr1.dndnha.com/yeh/yara/albums/inta-meny/03.Inta%20Menni.mp3"/>
+<enclosure url="https://sr1.dndnha.com/dl/yeh/yara/albums/inta-meny/03.Inta%20Menni.mp3"/>
 </item>
 <item>
 <title>حاسس</title>
-<enclosure url="https://dl.dndser.com/yeh/yara/albums/meaazibni-elhawa/01%20Hases.mp3"/>
+<enclosure url="https://dl.dndser.com/dl/yeh/yara/albums/meaazibni-elhawa/01%20Hases.mp3"/>
 </item>
 <item>
 <title>خلوني معو</title>
-<enclosure url="https://dl.dndser.com/yeh/yara/albums/meaazibni-elhawa/09%20Khallouni%20Maou.mp3"/>
+<enclosure url="https://dl.dndser.com/dl/yeh/yara/albums/meaazibni-elhawa/09%20Khallouni%20Maou.mp3"/>
 </item>
 <item>
 <title>اذا مش انت</title>
-<enclosure url="https://dl.dndser.com/yeh/yara/albums/meaazibni-elhawa/02%20Eza%20Mech%20Enta.mp3"/>
+<enclosure url="https://dl.dndser.com/dl/yeh/yara/albums/meaazibni-elhawa/02%20Eza%20Mech%20Enta.mp3"/>
 </item>
 <item>
 <title>صدفة</title>
-<enclosure url="https://sr1.dndnha.com/yeh/yara/albums/la2ale2-khlygia/07.Sedfa.mp3"/>
+<enclosure url="https://sr1.dndnha.com/dl/yeh/yara/albums/la2ale2-khlygia/07.Sedfa.mp3"/>
 </item>
 <item>
 <title>مطلبي في الكون</title>
-<enclosure url="https://dl.dndser.com/yeh/yara/singles/Dndnha.Com.Yara.Matlabi.Fi.El.Kon.mp3"/>
+<enclosure url="https://dl.dndser.com/dl/yeh/yara/singles/Dndnha.Com.Yara.Matlabi.Fi.El.Kon.mp3"/>
 </item>
 <item>
 <title>تتر مسلسل نصيبى وقسمتك</title>
-<enclosure url="https://dl.dndser.com/yeh/yara/singles/Dndnha.Com.Yara.Nasebi.we.Esmtak.mp3"/>
+<enclosure url="https://dl.dndser.com/dl/yeh/yara/singles/Dndnha.Com.Yara.Nasebi.we.Esmtak.mp3"/>
 </item>
 <item>
 <title>انا انا	</title>
