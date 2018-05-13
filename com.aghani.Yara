@@ -2,11 +2,11 @@
 <channel>
 <item>
 <title>ما بعرف</title>
-<enclosure url="https://sr1.dndnha.com/dl/yeh/yara/albums/3ayesh-b3yoni/05%20-%20Ma%20Baaref.mp3"/>
+<enclosure url="https://sr1.dndnha.com/dl2/yeh/yara/albums/3ayesh-b3yoni/05%20-%20Ma%20Baaref.mp3"/>
 </item>
 <item>
 <title>بيت حبيبي</title>
-<enclosure url="https://sr1.dndnha.com/dl/yeh/yara/albums/3ayesh-b3yoni/09%20-%20Beyt%20Habibi.mp3"/>
+<enclosure url="https://sr1.dndnha.com/dl2/yeh/yara/albums/3ayesh-b3yoni/09%20-%20Beyt%20Habibi.mp3"/>
 </item>
 <item>
 <title>معذبني الهوى</title>
@@ -14,7 +14,7 @@
 </item>
 <item>
 <title>بتروح</title>
-<enclosure url="https://sr1.dndnha.com/dl/yeh/yara/albums/3ayesh-b3yoni/06%20-%20Betrouh.mp3"/>
+<enclosure url="https://sr1.dndnha.com/dl2/yeh/yara/albums/3ayesh-b3yoni/06%20-%20Betrouh.mp3"/>
 </item>
 <item>
 <title>بحر هموم</title>
@@ -22,7 +22,7 @@
 </item>
 <item>
 <title>إنت مني</title>
-<enclosure url="https://sr1.dndnha.com/dl/yeh/yara/albums/inta-meny/03.Inta%20Menni.mp3"/>
+<enclosure url="https://sr1.dndnha.com/dl2/yeh/yara/albums/inta-meny/03.Inta%20Menni.mp3"/>
 </item>
 <item>
 <title>حاسس</title>
@@ -38,7 +38,7 @@
 </item>
 <item>
 <title>صدفة</title>
-<enclosure url="https://sr1.dndnha.com/dl/yeh/yara/albums/la2ale2-khlygia/07.Sedfa.mp3"/>
+<enclosure url="https://sr1.dndnha.com/dl2/yeh/yara/albums/la2ale2-khlygia/07.Sedfa.mp3"/>
 </item>
 <item>
 <title>مطلبي في الكون</title>
