@@ -1,6 +1,26 @@
 <rss>
 <channel>
 <item>
+<title>لا يكون من جدك</title>
+<enclosure url="https://dl.dndser.com/dl/yeh/yara/singles/Dndnha.Com.Yara.La.Yakoun.Men.Gaddak.mp3"/>
+</item>
+<item>
+<title>مطلبي في الكون</title>
+<enclosure url="https://dl.dndser.com/dl/yeh/yara/singles/Dndnha.Com.Yara.Matlabi.Fi.El.Kon.mp3"/>
+</item>
+<item>
+<title>تتر مسلسل نصيبى وقسمتك 2</title>
+<enclosure url="https://dl.dndser.com/dl/yeh/yara/singles/Dndnha.Com.Yara.Nasebi.we.Esmtak.mp3"/>
+</item>
+<item>
+<title>بديت بغلطة - تتر مسلسل حدوتة حب</title>
+<enclosure url="https://dl.dndser.com/dl/yeh/yara/singles/Dndnha.Com.Yara.Bedyit.Bi.Ghalta.mp3"/>
+</item>
+<item>
+<title>يا غيرهم</title>
+<enclosure url="https://dl.dndser.com/dl/yeh/yara/singles/Dndnha.Com.Yara.Ya.Gherohom.mp3"/>
+</item>
+<item>
 <title>ما بعرف</title>
 <enclosure url="https://sr1.dndnha.com/dl2/yeh/yara/albums/3ayesh-b3yoni/05%20-%20Ma%20Baaref.mp3"/>
 </item>
