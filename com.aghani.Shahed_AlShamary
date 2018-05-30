@@ -1,56 +1,44 @@
 <rss>
-<channel>
-<item>
-<title>هواي احبك - مع ضياء الحميد</title>
-<enclosure url="http://www.s1.bagdady.com/songs/shahad-alshamare/shhd_alshmry_w_5yaa_al7myd_hway_a7yk.mp3"/>
-</item>
-<item>
-<title>حب عمري - مع ضياء الحميد</title>
-<enclosure url="http://6arbyatserver.3lbh.com/public/s/UlA/lQM7HfKhSUh8OZLEHBtXiHgwP.mp3"/>
-</item>
-<item>
-<title>الو - مع أثير التميمي</title>
-<enclosure url="http://s1.bagdady.com/songs_bagdady/shhd.mp3"/>
-</item>
-<item>
-<title> جبرني الشوك - الشوق</title>
-<enclosure url="http://s4.3lbh.com/s/D31GDIywLMyTJ0I6yLSUUjiB6.mp3"/>
-</item>
-<item>
-<title>التنحانه - مع عبدالله البدر</title>
-<enclosure url="http://s4.3lbh.com/s/pqlWsK88G5652MfaWuynDfgAh.mp3"/>
-</item>
-<item>
-<title>ضميتلك بوسات - مع اثير التميمي</title>
-<enclosure url="http://s1.bagdady.com/songs_bagdady/thametlak-bosat.mp3"/>
-</item>
-<item>
-<title>ضميتلك بوسات مع اثير التميمي</title>
-<enclosure url="http://s4.3lbh.com/s/QnI7Ypt7uHuujfQm6zuVXtD3F.mp3"/>
-</item>
-<item>
-<title>جبرني الشوك</title>
-<enclosure url="http://www.abdwap2.com/uploads/songs/shhd_alshmry_-_gbrny_alshwk.mp3"/>
-</item>
-<item>
-<title>احبك</title>
-<enclosure url="http://dl.dndser.com/dl/shen/shahd-elshemary/singels/Dndnha.Com.Shahd.El.Shemary.Ahebak.mp3"/>
-</item>
-<item>
-<title>ظم شوفتك الي</title>
-<enclosure url="http://dl.dndser.com/dl/shen/shahd-elshemary/singels/Dndnha.Com.Shahd.El.Shemary.Zm.Shotk.Ely.mp3"/>
-</item>
-<item>
-<title>من اشتاك - ديو رائد الفتيان</title>
-<enclosure url="http://s1.bagdady.com/songs_bagdady/mn_ashtak.mp3"/>
-</item>
-<item>
-<title>راح اجيك ديو ضياء الحميد</title>
-<enclosure url="http://s1.bagdady.com/songs_bagdady/ra7_agyk.mp3"/>
-</item>
-<item>
-<title>نعلم بيها ( دويتو و ضياء الحميد و البحار</title>
-<enclosure url="http://www.s1.bagdady.com/songs/shahad-alshamare/na3lam-beha.mp3"/>
-</item>
-</channel>
+    <channel>
+        <item>
+            <title>هواي احبك - مع ضياء الحميد</title>
+            <enclosure url="http://www.s1.bagdady.com/songs/shahad-alshamare/shhd_alshmry_w_5yaa_al7myd_hway_a7yk.mp3"/>
+        </item>
+        <item>
+            <title>حب عمري - مع ضياء الحميد</title>
+            <enclosure url="http://6arbyatserver.3lbh.com/public/s/UlA/lQM7HfKhSUh8OZLEHBtXiHgwP.mp3"/>
+        </item>
+        <item>
+            <title>الو - مع أثير التميمي</title>
+            <enclosure url="http://s1.bagdady.com/songs_bagdady/shhd.mp3"/>
+        </item>
+        <item>
+            <title>ضميتلك بوسات - مع اثير التميمي</title>
+            <enclosure url="http://s1.bagdady.com/songs_bagdady/thametlak-bosat.mp3"/>
+        </item>
+        <item>
+            <title>جبرني الشوك</title>
+            <enclosure url="http://www.abdwap2.com/uploads/songs/shhd_alshmry_-_gbrny_alshwk.mp3"/>
+        </item>
+        <item>
+            <title>احبك</title>
+            <enclosure url="http://dl.dndser.com/dl/shen/shahd-elshemary/singels/Dndnha.Com.Shahd.El.Shemary.Ahebak.mp3"/>
+        </item>
+        <item>
+            <title>ظم شوفتك الي</title>
+            <enclosure url="http://dl.dndser.com/dl/shen/shahd-elshemary/singels/Dndnha.Com.Shahd.El.Shemary.Zm.Shotk.Ely.mp3"/>
+        </item>
+        <item>
+            <title>من اشتاك - ديو رائد الفتيان</title>
+            <enclosure url="http://s1.bagdady.com/songs_bagdady/mn_ashtak.mp3"/>
+        </item>
+        <item>
+            <title>راح اجيك ديو ضياء الحميد</title>
+            <enclosure url="http://s1.bagdady.com/songs_bagdady/ra7_agyk.mp3"/>
+        </item>
+        <item>
+            <title>نعلم بيها ( دويتو و ضياء الحميد و البحار</title>
+            <enclosure url="http://www.s1.bagdady.com/songs/shahad-alshamare/na3lam-beha.mp3"/>
+        </item>
+    </channel>
 </rss>
